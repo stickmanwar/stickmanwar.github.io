@@ -1,0 +1,14 @@
+{
+"companyName": "aa",
+"productName": "StickmanWar",
+"dataUrl": "Stickman_War.data.unityweb",
+"asmCodeUrl": "Stickman_War.asm.code.unityweb",
+"asmMemoryUrl": "Stickman_War.asm.memory.unityweb",
+"asmFrameworkUrl": "Stickman_War.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Stickman_War.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
